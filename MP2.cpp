@@ -1,33 +1,33 @@
 /* ========================================================
-Leah Perry								  CIS 160 Fall 2014
-MP2							 			 Submitted: 9/23/14
-Variable Type Comparison Chart			Revised on: -------
+Leah Perry				CIS 160 Fall 2014
+MP2					Submitted: 9/23/14
+Variable Type Comparison Chart		Revised on: -------
 
 
 Data Dictionary
 Variable				Used to
 --------				-------
-float value1			store user response #1
-float value2			store user response #2
-int v1 and v2			change user response to int
-long lv1 and lv2		change user response to long
-double dv1 and dv2		change user response to double
+float value1				store user response #1
+float value2				store user response #2
+int v1 and v2				change user response to int
+long lv1 and lv2			change user response to long
+double dv1 and dv2			change user response to double
 int IntFunA				store equation #1 as int
 int IntFunB				store equation #2 as int
 int IntFunC				store equation #3 as int
 int IntFunD				store equation #4 as int
-long LongFunA			store equation #1 as long
-long LongFunB			store equation #2 as long
-long LongFunC			store equation #3 as long
-long LongFunD			store equation #4 as long
-double DoubleFunA		store equation #1 as double
-double DoubleFunB		store equation #2 as double
-double DoubleFunC		store equation #3 as double
-double DoubleFunD		store equation #4 as double
-float UserResponse		store user response to determine whether or not to loop
+long LongFunA				store equation #1 as long
+long LongFunB				store equation #2 as long
+long LongFunC				store equation #3 as long
+long LongFunD				store equation #4 as long
+double DoubleFunA			store equation #1 as double
+double DoubleFunB			store equation #2 as double
+double DoubleFunC			store equation #3 as double
+double DoubleFunD			store equation #4 as double
+float UserResponse			store user response to determine whether or not to loop
 
-Functions Called		What They Do
-----------------		------------
+Functions Called			What They Do
+----------------			------------
 scanf					Scans User Input
 printf					Prints Statements
 modf					Calculates remainder after division
